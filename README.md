@@ -37,10 +37,10 @@ A simple modern web app built using **Preact**, **Supabase**, **Firebase (Google
 ```
 VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_KEY=public-anon-key
-VITE_FIREBASE_API_KEY=AIzaSy*************
+VITE_FIREBASE_API_KEY=you-key
 VITE_FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
 VITE_FIREBASE_PROJECT_ID=your-project-id
-VITE_FIREBASE_APP_ID=1:***********:web:*************
+VITE_FIREBASE_APP_ID=1:you_id App:web:you_idApp
 ```
 
 ---
